@@ -1,3 +1,4 @@
+---
 layout: post
 title: Protocol for Feeding Corals and Cleaning Coral Plugs and Side Walls
 date: '2025-9-29'
@@ -6,19 +7,19 @@ tags: coral, CBLS_aquarium
 projects: CBLS, Putnam Lab
 ---
   
-  # Protocol procedure for feeding corals and cleaning coral plugs and side walls
+# Protocol procedure for feeding corals and cleaning coral plugs and side walls
   
-  ## Feeding
-  Corals must be fed once a week. 
+## Feeding
+Corals must be fed once a week. 
   
-  ### Materials
+### Materials
 - Corals in crates
 - 4 Feeding Bins
 - Coral Max (Coral Food)
 - 1 tsp scoop
 - 2 cup measuring cup 
 
-  ### How To
+### How To
 1. Turn off the pumps to the system. Remove one half of the tank lids. 
 2. Place 4 feeding bins on top of the tank lids that were not removed.
 3. Pour 4 cups of water into each feeding bin. Make sure water does not get in between the cracks of the system. 
