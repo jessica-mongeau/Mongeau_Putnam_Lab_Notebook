@@ -1,9 +1,4 @@
 ---
-title: "2025-10-15_Shark_Species_In_Rhode_Island"
-output: html_document
-date: "2025-10-15"
----
----
   layout: post
 title: Shark Species Found in Rhode Island
 date: '2025-07-10'
