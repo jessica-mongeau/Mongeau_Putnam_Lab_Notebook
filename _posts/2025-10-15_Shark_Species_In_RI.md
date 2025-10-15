@@ -1,5 +1,5 @@
 ---
-  layout: post
+layout: post
 title: Shark Species Found in Rhode Island
 date: '2025-07-10'
 categories: Fun Posts
