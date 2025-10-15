@@ -10,8 +10,8 @@ projects: CBLS, Putnam Lab
 # Protocol procedure for feeding corals and cleaning coral plugs and side walls
   
 ## Feeding
-Frequency: Once per week
-Duration: 10 minutes per feeding round
+- Frequency: Once per week
+- Duration: 10 minutes per feeding round
   
 ### Materials
 - Coral crates (in system)
@@ -39,7 +39,7 @@ Duration: 10 minutes per feeding round
 4. Replace the lids to the tank and turn the pumps back on. 
 
 ## Cleaning Coral Plugs
-Frequency: Once a week
+- Frequency: Once per week
 
 ### Materials
 - Coral crates (in system)
@@ -74,14 +74,14 @@ Frequency: Once a week
 3. Return the lid to the tank and turn the pumps back of the system back on. 
 
 ## Side Wall Cleaning 
-Frequency: Once a week
-Note: Best to be done when feeding corals as less crates will be in the tank, making it easier to clean.
+- Frequency: Once per week
+- Note: Best to be done when feeding corals as less crates will be in the tank, making it easier to clean.
 
-###Materials
+### Materials
 - Sponge
 - Toothbrush
 
-###Steps
+### Steps
 1. Turn off the pumps to the system by flipping the labeled switches located behind the tank and remove one half of the tank lids. Place your tools in a reachable secure area.
 2. Using the sponge, gently clean the sidewalls in a back and forth motion or in circular motions. Avoid splashing water into the middle crack of the system.
 3. Use the sponge to gently clean the filters. 
