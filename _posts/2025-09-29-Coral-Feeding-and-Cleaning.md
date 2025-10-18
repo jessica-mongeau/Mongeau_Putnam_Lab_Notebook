@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protocol for Feeding Corals and Cleaning Coral Plugs and Side Walls
+title: Protocol Procedure for Coral Feeding and Tank Cleaning
 date: '2025-9-29'
 categories: Protocols
 tags: coral, CBLS_aquarium
