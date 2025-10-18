@@ -7,7 +7,7 @@ tags: coral, CBLS_aquarium
 projects: CBLS, Putnam Lab
 ---
   
-# Protocol procedure for feeding corals and cleaning coral plugs and side walls
+# Protocol Procedure for Coral Feeding and Tank Cleaning
   
 ## Feeding
 - Frequency: Once per week
