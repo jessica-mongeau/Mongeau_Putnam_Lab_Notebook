@@ -65,7 +65,7 @@ projects: CBLS, Putnam Lab
 10. Repeat steps 5 through 9 for the remainder of the plugs. 
 11. Remove the empty, dirty crate from the system and submerge it completely into the bleach bucket located in the sink for 24 hours.
 12. Record which crate was cleaned into the Putnam Lab Notebook and Coral Plug Cleaning Log (located on the refrigerator).
-13. After every 3 crates, turn the pumps back on for at leas 10 minutes before continuing to allow the water temperature in the tanks to regulate. 
+13. After every 3 crates, turn the pumps back on for at least 10 minutes before continuing to allow the water temperature in the tanks to regulate. 
 
 ### Cleaning and Storage
 1. When cleaning is complete, submerge the toothbrush in the bleach bucket for 24 hours to disinfect.
