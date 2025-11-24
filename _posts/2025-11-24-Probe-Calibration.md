@@ -39,10 +39,11 @@ projects: CBLS, Putnam Lab
 ### Materials
 - Orion StarTM A325 pH/Conductivity Portable Multiparameter Meter (Probe Set 1)
 - Digital Therometer Cat 150778
-- Tris Buffer
+- Tris Buffer (50mL falcon tube labeled "BT 3/4 Tris")
 - DI water
 - Kimwipes
 - Putnam Lab Notebook
+- KCl storage solution
 
 ### Steps 
 1. Turn on Orion Star A325 Probe Set 1. Rinse the pH probe and temperature probe with DI water, then dry with a Kimwipe. 
@@ -53,5 +54,5 @@ projects: CBLS, Putnam Lab
 
 ### Cleaning and Storage
 1. Gently wipe the probes with a Kimwipe and DI water to remove any salt that may have accumulated. 
-2. Place the pH probe back into the KCl solution 
+2. Place the pH probe back into the KCl storage solution. 
 
