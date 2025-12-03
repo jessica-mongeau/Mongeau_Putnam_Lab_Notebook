@@ -1,5 +1,5 @@
 ---
-  layout: post
+layout: post
 title: Protocol Procedure for Tank Cleaning
 date: '2025-12-03'
 categories: Protocols
