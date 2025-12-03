@@ -1,12 +1,12 @@
 ---
-  layout: post
+layout: post
 title: Protocol Procedure for Tank Cleaning
 date: '2025-12-03'
 categories: Protocols
 tags: coral, CBLS_aquarium
 projects: CBLS, Putnam Lab
 ---
-#Protocol Procedure for Tank Cleaning
+# Protocol Procedure for Tank Cleaning
 
 ## Cleaning Coral Plugs
 - Frequency: Once per week
